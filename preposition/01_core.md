@@ -1,7 +1,5 @@
 好，把英文里**所有常见的介词**都列全，并给出它们作状语时的中文落点。
 
----
-
 # 英文介词全表 → 中文状语位置
 
 ## 一、最核心的高频介词
@@ -18,8 +16,6 @@
 | from | 从/来自 | from Japan | 动词前 | 来自日本 |
 | of | ……的 | of the bug | 名词前 | 这个 bug 的 |
 | about | 关于 | about the bug | 动词前 | 关于这个 bug |
-
----
 
 ## 二、时间类介词
 
@@ -39,8 +35,6 @@
 | by | 到……之前 | by tomorrow | 动词前 | 到明天之前 |
 | past | 过了 | past 5pm | 动词前 | 过了五点 |
 | around | 大约 | around 5pm | 动词前 | 大约五点 |
-
----
 
 ## 三、地点/方向类介词
 
@@ -75,8 +69,6 @@
 | up | 向上 | up the hill | 动词前 | 上山 |
 | down | 向下 | down the hill | 动词前 | 下山 |
 
----
-
 ## 四、方式/工具类介词
 
 | 介词 | 意义 | 例子 | 中文落点 | 翻译 |
@@ -89,8 +81,6 @@
 | via | 经由 | via email | 动词前 | 通过邮件 |
 | using | 使用 | using Python | 动词前 | 用 Python |
 
----
-
 ## 五、目的/原因类介词
 
 | 介词 | 意义 | 例子 | 中文落点 | 翻译 |
@@ -102,8 +92,6 @@
 | owing to | 由于 | owing to delay | 句首/动词前 | 由于延误 |
 | thanks to | 多亏 | thanks to you | 句首 | 多亏你 |
 | through | 由于 | through hard work | 动词前 | 由于努力 |
-
----
 
 ## 六、条件/让步类介词
 
@@ -118,8 +106,6 @@
 | except | 除了 | except him | 句首/动词前 | 除了他 |
 | besides | 除了……还 | besides this | 句首 | 除此之外 |
 
----
-
 ## 七、关于/范围类介词
 
 | 介词 | 意义 | 例子 | 中文落点 | 翻译 |
@@ -131,8 +117,6 @@
 | concerning | 关于 | concerning this | 动词前 | 关于这个 |
 | over | 关于 | over the dispute | 动词前 | 关于这个争议 |
 | in terms of | 就……而言 | in terms of speed | 句首/动词前 | 就速度而言 |
-
----
 
 ## 八、伴随/对象类介词
 
@@ -146,8 +130,6 @@
 | among | 在……中 | among friends | 动词前 | 在朋友中 |
 | between | 在……间 | between us | 动词前 | 在我们之间 |
 
----
-
 ## 九、数量/程度类介词
 
 | 介词 | 意义 | 例子 | 中文落点 | 翻译 |
@@ -159,8 +141,6 @@
 | above | 超过 | above 50 | 动词前 | 超过50 |
 | below | 低于 | below 10 | 动词前 | 低于10 |
 | at | 以……速度 | at 60km/h | 动词前 | 以60公里/小时 |
-
----
 
 ## 十、总结：所有介词的统一规律
 
@@ -176,8 +156,6 @@
 | 关于（about/on/regarding…） | 动词前 |
 | 伴随（with/without/for/to…） | 动词前 |
 | 数量（about/over/under/above…） | 动词前 |
-
----
 
 ## 一句话总规律
 
