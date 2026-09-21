@@ -1,0 +1,46 @@
+这些缩写是英语词典中用来标注**词性（Parts of Speech）**的符号。理解它们是查单词、学语法的第一步。
+以下是常见的词性缩写及其含义，以及如何决定使用哪个翻译的指南：
+一、 常见词性缩写表
+缩写 全称 中文意思 举例
+n. noun 名词 Apple (苹果), Water (水)
+v. verb 动词 Eat (吃), Run (跑)
+vt. transitive verb 及物动词 Love (爱), Buy (买)
+vi. intransitive verb 不及物动词 Sleep (睡), Listen (听)
+adj. adjective 形容词 Beautiful (美的), Happy (快乐的)
+adv. adverb 副词 Quickly (快地), Very (非常)
+pron. pronoun 代词 He (他), It (它)
+prep. preposition 介词 In (在...里), On (在...上)
+conj. conjunction 连词 And (和), But (但是)
+art. article 冠词 A, An, The
+num. numeral 数词 One (一), First (第一)
+二、 重点区分：vt. 和 vi.（最容易困惑的地方）
+动词（v.）分为 vt. 和 vi.，这决定了你后面能不能直接加“东西”（宾语）。
+vt. (及物动词)：后面必须直接跟动作的对象。
+例如：I love you. (我爱你)。你不能只说 "I love"，别人会问“你爱谁？”。
+翻译时：通常翻译为“...某物/某人”。
+vi. (不及物动词)：后面不能直接跟东西。
+例如：I sleep. (我睡觉)。你不能说 "I sleep a bed"。
+注意：如果 vi. 后面非要加东西，必须先加个介词。比如：Listen to me. (听我说)。
+三、 什么时候用哪个翻译？（核心技巧）
+一个单词往往有好几个词性和翻译，决定用哪一个取决于它在句子里的位置：
+
+1. 看位置定词性
+   作主语/宾语：一定是 n. (名词)。
+   I like water. (我喜欢水) —— 这里的 water 是名词。
+   在名词前面：通常是 adj. (形容词)。
+   The water plants. (水生植物) —— 这里的 water 起到了形容词作用。
+   在主语后面（表示动作）：一定是 v. (动词)。
+   I water the flowers. (我给花浇水) —— 这里的 water 是动词。
+2. 根据后缀判断（常见规律）
+   以 -ly 结尾的大多是 adv. (副词)，翻译成“...地”。（如：slowly 慢慢地）
+   以 -tion / -ment / -ness 结尾的大多是 n. (名词)。
+   以 -ful / -able / -ive 结尾的大多是 adj. (形容词)，翻译成“...的”。
+3. 翻译的“万能公式”
+   如果是 adj.，翻译时结尾加个**“的”**（如：漂亮的）。
+   如果是 adv.，翻译时结尾加个**“地”**（如：快速地）。
+   如果是 n.，翻译就是事物的名称（如：苹果）。
+   如果是 v.，翻译就是动作（如：跑、吃）。
+   总结建议：
+   查词典时，先看句子，再查单词。
+   如果你看到的句子是 "The book is good."，你在词典里就要找 adj. 那个分类下的翻译。
+   如果你看到的句子是 "Book a room."，这明显是个动作，你就要找 vt. (及物动词) 分类下的翻译，也就是“预订”。
